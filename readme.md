@@ -32,15 +32,15 @@ Please see [UCI-documention](http://page.mi.fu-berlin.de/block/uci.htm)
 - uci
 - isready
 - position startpos
-- position startpos moves <moves>
-- position fen <fen>
-- position fen <fen> moves <moves>
-- go <wtime> <btime> <winc> <binc>
+- position startpos moves \<moves>
+- position fen \<fen>
+- position fen \<fen> moves \<moves>
+- go \<wtime> \<btime> \<winc> \<binc>
 - go infinite
 - stop
 - fen
 - state
 - board
 - legal moves
-- bench <depth>
+- bench \<depth>
 - quit
